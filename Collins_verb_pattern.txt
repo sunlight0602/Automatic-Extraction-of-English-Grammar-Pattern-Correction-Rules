@@ -1,0 +1,156 @@
+V
+V n
+V pl-n
+V pron-refl 
+V amount 
+V adj
+V -ing 
+V to inf 
+V inf
+V that 
+V wh
+V wh- to inf 
+V with quote 
+V so
+V not
+V as if
+V as though
+V like 
+V and v
+V prep 
+V adv
+pl-n V together
+V about n 
+V across n 
+V after n
+V against n
+V around
+V round n 
+V as adj
+V as n
+V as to wh 
+V at n
+V between pl-n 
+V by amount
+V by -ing 
+V for n
+V from n 
+V in n
+V in favour of n 
+V into n
+V like n 
+V of n 
+V off n 
+V on n
+V on to n
+V onto n 
+V out of n
+V over n
+V through n 
+V to n
+V towards n
+V toward n 
+V under n
+V n adj
+V n n 
+V n -ing
+V n to inf 
+V n inf
+V n that
+V n wh
+V n wh- to inf 
+V n with quote 
+V n -ed
+V n prep
+V n adv
+V n with adv
+V pl-n with together 
+V way prep
+V way adv
+V n about n 
+V n against n 
+V n as adj
+V n as n
+V n as to wh
+V n at n
+V n between pl-n
+V n among pl-n 
+V n by n
+V n for n
+V n from n 
+V n in n
+V n into n
+V n into –ing 
+V n of n
+V n off n 
+V n on n
+V n onto n
+V n on to n 
+V n out of n
+V n over n 
+V n to n
+V n towards
+V n toward n 
+V n with n
+V n prep n
+V prep n
+V n prep prep n
+V n prep prep wh
+V n prep adj
+V prep inf
+V prep -ing
+V prep n prep n
+it V that
+it V to inf
+it V wh-
+it V when
+it V if
+it V as if
+it V as though
+it V like
+it V to n that
+it V to n to-if
+it V to n wh-
+it V to n as if
+it V to n as though
+it V to n like
+it V prep that
+it V prep to inf
+it be V-ed that
+it be V-ed to inf
+it be V-ed wh-
+it V n that
+it V n to inf
+it V n wh-
+it V n when
+it V n if
+it V n –ing
+it V n before
+it V amount before
+it V n since
+it V amount since
+it V n for n to inf
+it V n n to inf
+it V amount for n that
+it V n adj that
+it V n adj to inf
+it V adj that
+it V adj to inf
+it V adj wh-
+it V adj when
+it V adj if
+it V adj -ing
+it V adj of n to inf
+there V n
+there V n prep
+there V n adv
+AUX -ing
+AUX to inf
+AUX neg inf	
+AUX n v	
+AUX inf	
+AUX
+so AUX n
+nor AUX n
+neither AUX n	
+AUX n-ed	

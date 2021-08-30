@@ -1,0 +1,13 @@
+v 1. 只取部分edit tag的改正: 學姊提供XC, D, IS, MW, PR, WC
+v 2. 資料改用/corpus/written/EFCAMDAT/EF201403.diff.tokenized.txt
+v 3. 新資料的edit tag不一樣，前處理要改
+v 4. 作法改成找對的pattern，再用index去找錯的pattern
+
+v 5. 對的要跟collins裡面的字對
+v 6. 限定一個錯誤
+
+7. 看dependency判斷of
+v 8. local_api改成verb_pattern(小喬的)
+9. WC看一下是不是prep 如果是在留 
+10.要對noun的text
+v 11.改用spacy lg
